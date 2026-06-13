@@ -33,7 +33,7 @@
 
 ## 📜 Credits & Disclaimer
 
-* **Developer**: Tocfyr_
+* **Developer**: Turbo
 * **Special Thanks**: The Meteor Client team and the original creators of TrouserStreak.
 
 *Disclaimer: This addon is intended for use on Anarchy servers where such modifications are permitted. Use responsibly and enjoy the chaos.*
